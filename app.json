@@ -1,0 +1,28 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/img/img",
+    "pages/mine/mine",
+    "pages/search/search",
+    "pages/demo01/demo01"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Haoyu",
+    "navigationBarTextStyle":"black",
+    "enablePullDownRefresh":true,
+    "backgroundColor":"#fffaff"
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "首页",
+      "iconPath": "iconPaht",
+      "selectedIconPath": "selectedIconPath"
+    }]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
