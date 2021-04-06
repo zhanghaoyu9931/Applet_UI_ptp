@@ -195,7 +195,7 @@ Project Link: [https://github.com/zhanghaoyu9931/Applet_UI_ptp](https://github.c
 [forks-shield]: <https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge>
 [forks-url]: <https://github.com/zhanghaoyu9931/Applet_UI_ptp/network/members>
 [stars-shield]: <https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge>
-[stars-url]: <https://github.com/othneildrew/Best-README-Template/stargazers>
+[stars-url]: <https://github.com/zhanghaoyu9931/Applet_UI_ptp/stargazers>
 [issues-shield]: <https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge>
 [issues-url]: <https://github.com/zhanghaoyu9931/Applet_UI_ptp/issues>
 [license-shield]: <https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge>
