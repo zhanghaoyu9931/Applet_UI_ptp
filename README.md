@@ -190,7 +190,7 @@ Project Link: [https://github.com/zhanghaoyu9931/Applet_UI_ptp](https://github.c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: <https://img.shields.io/github/contributors/zhanghaoyu9931/Applet_UI_ptp?color=%233134&label=Contributors&logo=github&style=flat-square>
+[contributors-shield]: <https://img.shields.io/github/contributors/zhanghaoyu9931/Applet_UI_ptp?label=Contributors&logo=github&style=flat-square>
 [contributors-url]: <https://github.com/zhanghaoyu9931/Applet_UI_ptp/graphs/contributors>
 
 [forks-shield]: <https://img.shields.io/github/forks/zhanghaoyu9931/Applet_UI_ptp?color=%233134&label=Forks&logo=github&style=flat-square>
