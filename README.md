@@ -203,7 +203,7 @@ Project Link: [https://github.com/zhanghaoyu9931/Applet_UI_ptp](https://github.c
 [issues-url]: <https://github.com/zhanghaoyu9931/Applet_UI_ptp/issues>
 
 [license-shield]: <https://img.shields.io/github/license/zhanghaoyu9931/Applet_UI_ptp?color=%233134&label=License&logo=github&style=for-the-badge>
-[license-url]: <https://github.com/zhanghaoyu9931/Applet_UI_ptp/main/LICENSE.txt>
+[license-url]: <https://github.com/zhanghaoyu9931/Applet_UI_ptp/blob/master/LICENSE.txt>
 
 [linkedin-shield]: <https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555>
 [linkedin-url]: <https://linkedin.com/in/zhanghaoyu9931>
