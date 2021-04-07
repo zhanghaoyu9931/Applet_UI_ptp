@@ -194,13 +194,13 @@ Project Link: [https://github.com/zhanghaoyu9931/Applet_UI_ptp](https://github.c
 [contributors-shield]: <https://img.shields.io/github/contributors/zhanghaoyu9931/Applet_UI_ptp?label=Contributors&logo=github&style=for-the-badge>
 [contributors-url]: <https://github.com/zhanghaoyu9931/Applet_UI_ptp/graphs/contributors>
 
-[forks-shield]: <https://img.shields.io/github/forks/zhanghaoyu9931/Applet_UI_ptp?color=%233134&label=Forks&logo=github&style=for-the-badge>
+[forks-shield]: <https://img.shields.io/github/forks/zhanghaoyu9931/Applet_UI_ptp?color=%243134&label=Forks&logo=github&style=for-the-badge>
 [forks-url]: <https://github.com/zhanghaoyu9931/Applet_UI_ptp/network/members>
 
 [stars-shield]: <https://img.shields.io/github/stars/zhanghaoyu9931/Applet_UI_ptp?color=%233134&label=Stars&logo=github&style=for-the-badge>
 [stars-url]: <https://github.com/zhanghaoyu9931/Applet_UI_ptp/stargazers>
 
-[issues-shield]: <https://img.shields.io/github/issues/zhanghaoyu9931/Applet_UI_ptp?color=%233134&label=Issues&logo=github&style=for-the-badge>
+[issues-shield]: <https://img.shields.io/github/issues/zhanghaoyu9931/Applet_UI_ptp?color=%223134&label=Issues&logo=github&style=for-the-badge>
 [issues-url]: <https://github.com/zhanghaoyu9931/Applet_UI_ptp/issues>
 
 [license-shield]: <https://img.shields.io/github/license/zhanghaoyu9931/Applet_UI_ptp?color=%233134&label=License&logo=github&style=for-the-badge>
