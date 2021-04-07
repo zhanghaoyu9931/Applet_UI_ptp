@@ -200,7 +200,7 @@ Project Link: [https://github.com/zhanghaoyu9931/Applet_UI_ptp](https://github.c
 [stars-shield]: <https://img.shields.io/github/stars/zhanghaoyu9931/Applet_UI_ptp?color=%233134&label=Stars&logo=github&style=for-the-badge>
 [stars-url]: <https://github.com/zhanghaoyu9931/Applet_UI_ptp/stargazers>
 
-[issues-shield]: <https://img.shields.io/github/issues/zhanghaoyu9931/Applet_UI_ptp?color=%223134&label=Issues&logo=github&style=for-the-badge>
+[issues-shield]: <https://img.shields.io/github/issues/zhanghaoyu9931/Applet_UI_ptp?color=%253134&label=Issues&logo=github&style=for-the-badge>
 [issues-url]: <https://github.com/zhanghaoyu9931/Applet_UI_ptp/issues>
 
 [license-shield]: <https://img.shields.io/github/license/zhanghaoyu9931/Applet_UI_ptp?color=%233134&label=License&logo=github&style=for-the-badge>
